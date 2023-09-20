@@ -8,6 +8,8 @@
 📫 How to reach me: yevictor16@gmeil.com
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benaso&show_icons=true&theme=tokyonight)
+
+
 https://badgen.net/badge/:subject/:status/:color?icon=github
                    ──┬──  ───┬───  ──┬───  ──┬── ────┬──────
                      │       │       │       │       └─ Options (label, list, icon, color)
@@ -17,11 +19,6 @@ https://badgen.net/badge/:subject/:status/:color?icon=github
                   "badge" - default (static) badge generator
                   
 eg: https://badgen.net/badge/Swift/4.2/orange
-
-作者：甜点cc
-链接：https://juejin.cn/post/7127285527920771086
-来源：稀土掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 <!--
 **Benaso/Benaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
