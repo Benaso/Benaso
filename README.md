@@ -1,7 +1,10 @@
 ### Hi there 👋
 🔭 I’m currently working on java web development.
+<rd>
 🌱 I’m currently learning SSM, SpringCloud, Linux, kafka, redis.
+<rd>
 👯 I’m looking to collaborate on Java-based system development or web backend development.
+<rd>
 📫 How to reach me: yevictor16@gmeil.com
 <!--
 **Benaso/Benaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
