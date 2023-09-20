@@ -10,15 +10,7 @@
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benaso&show_icons=true&theme=tokyonight)
 
 
-https://badgen.net/badge/:subject/:status/:color?icon=github
-                   ──┬──  ───┬───  ──┬───  ──┬── ────┬──────
-                     │       │       │       │       └─ Options (label, list, icon, color)
-                     │       │       │       │
-                     │      TEXT    TEXT    RGB / COLOR_NAME ( optional )
-                     │
-                  "badge" - default (static) badge generator
-                  
-eg: https://badgen.net/badge/Swift/4.2/orange
+
 <!--
 **Benaso/Benaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
