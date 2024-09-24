@@ -1,9 +1,9 @@
 ### Hi there 👋
-🔭 I’m currently working on java web development.
+🔭 I’m currently working on Golang development.
 <rd>
-🌱 I’m currently learning SSM, SpringCloud, Linux, kafka, redis.
+🌱 I’m currently learning XSS, Go Penetration test, JVM and Redis.
 <rd>
-👯 I’m looking to collaborate on Java-based system development or web backend development.
+👯 I’m finging like-minded friends who love open source.
 <rd>
 📫 How to reach me: yevictor16@gmeil.com
 
