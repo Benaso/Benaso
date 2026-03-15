@@ -1,5 +1,5 @@
 🚀 Victor Ye
-Software Architect | Multi-Language Explorer
+Multi-Language Explorer
 
 I'm a software engineer who loves turning complex problems into elegant, high-performance code. From the low-level safety of Rust to the high-concurrency efficiency of Go, I build systems that scale.
 
