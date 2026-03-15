@@ -12,4 +12,4 @@ I'm a software engineer who loves turning complex problems into elegant, high-pe
 🎓 Alumni: Oxford Brookes University & CDUT.
 
 🛠 Languages & Tools
-🔗 Check my projects: Gitee @BBbenaso
+🔗 Check my projects:[ Gitee @BBbenaso](https://gitee.com/BBbenaso)
